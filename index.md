@@ -11,3 +11,7 @@ dsad
 ``` python
 print ("sup")
 ```
+
+- [x] Go on Github
+- [x] Create a profile
+- [ ] be a senior programmer
